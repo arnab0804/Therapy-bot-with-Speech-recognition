@@ -2,7 +2,7 @@
 Therapy Chatbot with Speech recognition and Text to Speech capabilities
 
 Required Files/Packages:
-1. Therapy Dataset by Jerry Yao
+1. Synthetic Therapy Conversations Dataset by Jerry Yao
 https://www.kaggle.com/datasets/thedevastator/synthetic-therapy-conversations-dataset/data
 
 2. nltk
